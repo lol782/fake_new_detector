@@ -85,16 +85,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-| Prediction                                         | LIME Explanation                       |
-| -------------------------------------------------- | -------------------------------------- |
-| ![prediction](https://yourlink.com/prediction.png) | ![lime](https://yourlink.com/lime.png) |
-
-> Replace the above with your actual screenshots or remove this section.
-
----
-
 ## 📈 Roadmap
 
 * ✅ Model loading and classification
