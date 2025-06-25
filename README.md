@@ -107,7 +107,7 @@ streamlit run app.py
 
 **Rahul Kodunga**
 🎓 B.Tech (CSE), Dehradun
-📫 [rahulkodunga@gmail.com](mailto:rahulkodunga@gmail.com)
+📫 [rahulkodunga@gmail.com](mailto:rahulkoranga30@gmail.com)
 💡 Interested in AI, NLP, and building useful ML tools
 
 ---
