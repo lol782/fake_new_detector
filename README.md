@@ -1,8 +1,3 @@
-Here's a complete and polished `README.md` file for your **Fake Review Detector** Streamlit app, based on your code:
-
----
-
-````markdown
 # 🕵️‍♂️ Fake Review Detector with BERT + LIME
 
 This is a web-based Fake Review Detector built using **Streamlit**. It uses a fine-tuned **BERT** model to classify whether a review is **Original** or **Computer-Generated**. For interpretability, it integrates **LIME (Local Interpretable Model-agnostic Explanations)** to visualize what parts of the text influenced the prediction.
